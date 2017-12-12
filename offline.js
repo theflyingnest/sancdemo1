@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1513057716,
+	"version": 1513061556,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,11 +48,6 @@
 		"icon-512.png",
 		"icon-128.png",
 		"dungeongen.js",
-		"firebase.js",
-		"geofire.js",
-		"firebase.js",
-		"firebase.js",
-		"firebase.js",
 		"mazegen.js",
 		"adapter.js"
 	]
