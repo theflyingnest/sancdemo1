@@ -1,0 +1,95 @@
+Room,,,,
+Day 1,,,,
+Off we go!,To the Foyer*1B1*no,null,null,1A1
+End of Day 1,Small steps!*2A1*no,null,null,1A2
+End of Day 1,Tomorrow is another day….*2A1*no,null,null,1A3
+,,,,
+Day 2,,,,
+Off we go!,To the Foyer*2B1*no,null,null,2A1
+End of Day 2,Good times ahead!*3A1*no,null,null,2A2
+End of Day 2,Sleep it off and try again tomorrow.*3A1*no,null,null,2A3
+,,,,
+Day 3,,,,
+Off we go!,To the Foyer*3B1*no,null,null,3A1
+End of Day 3,Looking forward to the holidays!~*4A1*no,null,null,3A2
+End of Day 3,How unpleasant….*4A1*no,null,null,3A3
+,,,,
+Day 4,,,,
+Off we go!,To the Foyer*4B1*yes,null,null,4A1
+,,,,
+,,,,
+,,,,
+null,null,null,null,null
+,,,,
+Foyer,,,,
+Day 1,,,,
+,,,,
+Choose,,,,
+Offer to Help!,To the Garden*1B2*no*gard,To the Den*1B5*no*maid,null,1B1
+Offer to Help!,To the Garden*2B2*no*gard,To the Den*2B5*no*maid,null,2B1
+Offer to Help!,To the Garden*3B2*no*gard,To the Den*3B5*no*maid,null,3B1
+,,,,
+,,,,
+,,,,
+Gardener,,,,
+,,,,
+Help tend to the Garden?,Help*1B3*no*gard,Don't help*1B4*no*gard,null,1B2
+Help tend to the Garden?,To the Garden*1G1*no*gard,null,null,1B3
+Help tend to the Garden?,Back to the Foyer*1B1*no*none,null,null,1B4
+,,,,
+Help water the plants?,Help*2B3*no*gard,Don't help*2B4*no*gard,null,2B2
+Help water the plants?,To the Garden*2G1*no*gard,null,null,2B3
+Help water the plants?,Back to the Foyer*2B1*no*none,null,null,2B4
+,,,,
+Help help prepare the Garden for the Summer Festival?,Help*3B3*no*gard,Don't help*3B4*no*gard,null,3B2
+Help help prepare the Garden for the Summer Festival?,To the Garden*3G1*no*gard,null,null,3B3
+Help help prepare the Garden for the Summer Festival?,Back to the Foyer*3B1*no*none,null,null,3B4
+,,,,
+,,,,
+Maid,,,,
+,,,,
+Help start her day?,Help*1B6*no*maid,Don't help*1B7*no*maid,null,1B5
+Help start her day?,To the Den*1M1*no*maid,null,null,1B6
+Help start her day?,Back to the Foyer*1B1*no*none,null,null,1B7
+,,,,
+Help her with he workload?,Help*2B6*no*maid,Don't help*2B7*no*maid,null,2B5
+Help her with he workload?,To the Den*2M1*no*maid,null,null,2B6
+Help her with he workload?,Back to the Foyer*2B1*no*none,null,null,2B7
+,,,,
+Help her prepare the Den for the Summer Festival?,Help*3B6*no*maid,Don't help*3B7*no*maid,null,3B5
+Help her prepare the Den for the Summer Festival?,To the Den*3M1*no*maid,null,null,3B6
+Help her prepare the Den for the Summer Festival?,Back to the Foyer*3B1*no*none,null,null,3B7
+,,,,
+,,,,
+Garden,,,,
+Garden - Day 1,Kill the spider!*1G3*no*gard,Leave it alone*1G2*no*gard,null,1G1
+Garden - Day 1,Back to your room*1A2*no,null,null,1G2
+Garden - Day 1,Back to your room*1A3*no*none,null,null,1G3
+,,,,
+Garden - Day 2,Water the roses*2G3*no*gard,Water the Strawberries*2G2*no*gard,null,2G1
+Garden - Day 2,Back to your room*2A2*no,null,null,2G2
+Garden - Day 2,Back to your room*2A3*no*none,null,null,2G3
+,,,,
+Garden - Day 3,Decorate in red*3G3*no*gard,Decorate in blue*3G2*no*gard,null,3G1
+Garden - Day 3,Back to your room*3A2*no,null,null,3G2
+Garden - Day 3,Back to your room*3A3*no*none,null,null,3G3
+,,,,
+,,,,
+Den,,,,
+Den - Day 1,Make her some coffee*1M3*no*maid,Clean up the mess for her.*1M2*no*maid,null,1M1
+Den - Day 1,Back to your room*1A2*no*none,null,null,1M2
+Den - Day 1,Back to your room*1A3*no*none,null,null,1M3
+,,,,
+Den - Day 2,Do the dishes*2M3*no*maid,Feed her cats*2M2*no*maid,null,2M1
+Den - Day 2,Back to your room*2A2*no*none,null,null,2M2
+Den - Day 2,Back to your room*2A3*no*none,null,null,2M3
+,,,,
+Den - Day 3,Decorate in red*3M3*no*maid,Decorate in blue*3M2*no*maid,null,3M1
+Den - Day 3,Back to your room*3A2*no*none,null,null,3M2
+Den - Day 3,Back to your room*3A3*no*none,null,null,3M3
+,,,,
+Good End,Restart,null,null,1Z1
+Good End,Restart,null,null,1Z2
+Bad End,Restart,null,null,1Z3
+Bad End,Restart,null,null,1Z4
+Bad End,Restart,null,null,1Z5
