@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1513044080,
+	"version": 1513057716,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,19 +35,18 @@
 		"images/los-sheet0.png",
 		"images/los-sheet1.png",
 		"images/los-sheet2.png",
+		"basevn2.csv",
+		"crossroadsvn2.csv",
+		"sanc_gen_seeder.csv",
+		"sanc_worldgen.csv",
+		"hooskeerage1.png",
 		"loading-logo.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-256.png",
 		"icon-512.png",
-		"hooskeerage1.png",
-		"basevn2.csv",
-		"crossroadsvn2.csv",
 		"icon-128.png",
-		"red - tails refuge.xml",
-		"sanc_worldgen.csv",
-		"sanc_gen_seeder.csv",
 		"dungeongen.js",
 		"firebase.js",
 		"geofire.js",
@@ -55,8 +54,6 @@
 		"firebase.js",
 		"firebase.js",
 		"mazegen.js",
-		"adapter.js",
-		"jquery.gritter.js",
-		"jquery.gritter.css"
+		"adapter.js"
 	]
 }
